@@ -30,7 +30,7 @@ If all it's ok, you'll be able to see a lot of AFL crashes :)
 - There will be 3 different challenges. The goal is to find a reproducible bug on each of them.
 - We're looking for exploitable vulnerabilities. In order to be the winner of a challenge, you must provide a crash/PoC. "Theoretical bugs" or code warnings are not welcome, sorry.
 - Challenges are intended to be solved by fuzzing, but creative approaches will be encouraged.
-- During the workshop you will be able to ask me any questions you might have (**via Telegram at** https://t.me/nosoynadiemas). Please don't share solutions while the challenge is live.
+- During the workshop you will be able to ask me any questions you might have (**via Telegram at** https://t.me/nosoynadiemas). Please **don't share solutions while the challenge is live**.
 - I will give you some hints and tips before and during the challenge.
 - After each challenge, I will show my solution and I will explain it to you.
 - There may be more than one correct solution.

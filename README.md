@@ -8,7 +8,7 @@
 All you need for the workshop is:
 - A **Telegram account**. You will need to use it to send me your **questions/solutions**
 - A running Linux system with an internet connection
-- Latest version of AFL++ installed on the system (https://github.com/AFLplusplus/AFLplusplus#building-and-installing-afl). You can download AFL++ source code at https://github.com/AFLplusplus/AFLplusplus/releases.
+- Latest version of **AFL++** installed on the system (https://github.com/AFLplusplus/AFLplusplus#building-and-installing-afl). You can download AFL++ source code at https://github.com/AFLplusplus/AFLplusplus/releases.
 
 ### Virtual machine
 

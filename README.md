@@ -42,12 +42,12 @@ The winner of each challenge will receive a coupon to spend in [GitHub Shop](htt
 
 ## Fuzz Challenge 1 - ESIF RELOAD (V2.0) [40 minutes]
 
+WILL BE MADE PUBLIC ON Nov 21, 14:30 EST
 
 ## Fuzz Challenge 2 - QSSLANG (Quite Stupid Structured Language) [50 minutes]
 
 
 ## Fuzz Challenge 3
-
 
 
 You can find some examples in the "tests" folder

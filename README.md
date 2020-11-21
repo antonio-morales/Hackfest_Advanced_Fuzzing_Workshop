@@ -41,7 +41,7 @@ If all it's ok, you'll be able to see a lot of AFL crashes :)
 
 The winner of each challenge will receive a coupon to spend in [GitHub Shop](https://github.myshopify.com/). Second place will also be awarded.
 
-## Fuzz Challenge 1 - ESIF RELOAD (V2.0) [40 minutes]
+## Fuzz Challenge 1 - ESIF RELOAD (V2.0) [45 minutes]
 
 WILL BE MADE PUBLIC ON Nov 21, 14:30 EST
 

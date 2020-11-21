@@ -48,7 +48,7 @@ WILL BE MADE PUBLIC ON Nov 21, 14:30 EST
 ## Fuzz Challenge 2 - QSSLANG (Quite Stupid Structured Language) [50 minutes]
 
 
-## Fuzz Challenge 3
+## Fuzz Challenge 3 - My sweet parser
 
 
 You can find some examples in the "tests" folder

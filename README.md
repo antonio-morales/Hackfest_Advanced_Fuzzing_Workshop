@@ -1,5 +1,11 @@
 # Hackfest - Advanced Fuzzing Workshop
 
+**Start here** -> https://github.com/antonio-morales/Hackfest_Advanced_Fuzzing_Workshop/blob/main/Hackfest%20Workshop%20Slides.pdf
+
+Fuzz1.zip Password -> hello3487hello
+
+Fuzz2.zip Password -> fuzz9283fuzz
+
 ## Previous editions
 - EkoParty => https://github.com/antonio-morales/EkoParty_Advanced_Fuzzing_Workshop
 

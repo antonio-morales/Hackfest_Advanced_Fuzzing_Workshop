@@ -56,5 +56,3 @@ Run:
 
 ## Fuzz Challenge 3 - My sweet parser
 
-
-You can find some examples in the "tests" folder

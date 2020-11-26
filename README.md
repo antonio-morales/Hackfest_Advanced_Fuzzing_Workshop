@@ -55,9 +55,16 @@ Build:
 
 Run:
 
-    ./EkoParty1 ./AFL/afl_in/file1 output.ppm
+    ./hackfest1 ./AFL/afl_in/file1 output.ppm
 
 ## Fuzz Challenge 2 - QSSLANG (Quite Stupid Structured Language) [50 minutes]
+Build:
+
+    gcc HackFest2.c -w -o hackfest2
+
+Run:
+
+    ./hackfest2 Example.xml
 
 
 ## Fuzz Challenge 3 - My sweet parser

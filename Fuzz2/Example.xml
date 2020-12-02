@@ -1,0 +1,17 @@
+#QSSLANG example
+<QSS>
+    <main> #Put here your cool comment
+        <b>config</b> #Let's go
+        <if><b true><n 12><SUM><n 87><endif><d 1605722137>
+        <SUM>
+        <AV><n 123456><n 7.8><text>hide</text><when><d 1605722111>
+        <MULT><n 123.21><n 7888.2><body><n 12></body>
+        <t John><SIZE><n 321321>
+        <MULT>
+        <text>helloworld</text>
+        [IF]<n 123><SIZE><b><comment><t Alex>
+            [THEN]<n 1000><SUB><n 122></comment><n 123.12>
+        <SIZE><n 144><endif>[IF]<s cool challenge><MULT><n 500><n 100>[ELSE]<n 75.5><SUM><n 122.2>
+        <i 100><SUM><i 50><if><b!=text><t Hack><CONCAT><t Fest>
+    </main>
+</QSS>
